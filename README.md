@@ -1,4 +1,4 @@
- #Image Classification with Deep Learning
+ # Image Classification with Deep Learning
 A project that trains a deep learning model to classify images into different categories using TensorFlow/Keras.
 
 ## Features
